@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fish
+comment0.text=\r\nFish\ Class\r\n\r\n\ name,\ xPos,\ yPos,\ color,\ weight\r\n\r\n\ swim,\ eat,\ mutate,\ toString\r\n\r\n\r\n\ Larry\ Tsai\r\n\ 29OCT2019\r\n
+comment1.params=
+comment1.target=Fish()
+comment2.params=name\ color\ x\ y
+comment2.target=Fish(java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=x
+comment3.target=void\ eat(double)
+comment4.params=mut
+comment4.target=void\ mutate(java.lang.String)
+comment5.params=dir\ mov
+comment5.target=void\ swim(java.lang.String,\ int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

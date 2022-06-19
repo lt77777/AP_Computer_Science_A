@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Circle\ class\ that\ makes\ circle\ objects\r\n\r\nCircles\ have\ name\ and\ radius\r\nWe\ want\ to\ get\ info\ on\ circles\ like\ area,\ cricumference,\ and\ diameter\r\n\r\nLarry\ Tsai\r\n25OCT2019\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ constructor\ part\r\n
+comment2.params=radius\ name
+comment2.target=Circle(double,\ java.lang.String)
+comment3.params=
+comment3.target=double\ findArea()
+comment4.params=
+comment4.target=double\ findCircumference()
+comment5.params=
+comment5.target=double\ findDiameter()
+comment6.params=radius
+comment6.target=void\ setRadius(double)
+comment7.params=name
+comment7.target=void\ setName(java.lang.String)
+comment8.params=
+comment8.target=void\ printInfo()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Die
+comment0.text=\r\n\ -\ Create\ a\ class\ called\ Die.\ It\ has\ 1\ method,\ roll(\ ),\ which\ receives\ 1\ parameter.\ \r\n\ This\ parameter\ is\ the\ number\ of\ sides\ the\ die\ has.\ \r\n\ In\ the\ method,\ roll\ the\ die,\ and\ return\ (***but\ don\u2019t\ display***)\ the\ result.\ \r\n\ Next,\ create\ a\ client,\ DieClient,\ that\ asks\ how\ many\ sides\ the\ die\ has,\ then\ rolls\ the\ die\ once\ (by\ calling\ the\ method)\ and\ displays\ the\ result.\r\n-\ Create\ a\ second\ client\ called\ BoxCars.\ \r\nIt\ rolls\ a\ pair\ of\ 6-sided\ dice\ 36000\ times\ (do\ this\ by\ using,\ but\ not\ changing\ at\ all,\ the\ Die\ class).\ \r\nDisplay\ all\ the\ rolls,\ and\ count\ how\ many\ times\ \u201Cboxcars\u201D\ (a\ pair\ of\ 6\u2019s)\ occurs.\r\n\r\n\ Lawrence\ Tsai\r\n\ 18NOV2019\r\n
+comment1.params=sides
+comment1.target=Die(int)
+comment2.params=sides\ times
+comment2.target=int\ roll(int,\ int)
+numComments=3
