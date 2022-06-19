@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EvenCount
+comment1.params=x\ s\ w
+comment1.target=int\ EvenCount(int,\ java.util.ArrayList,\ int)
+comment2.params=integers
+comment2.target=int[]\ convertIntegers(java.util.List)
+numComments=3
